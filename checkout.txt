@@ -1,0 +1,3 @@
+el objetivo de este archivo es hacer un viaje en el timpo con git checkout
+
+Este archivo en principio desaparecera
