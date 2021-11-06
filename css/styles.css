@@ -4,3 +4,8 @@ body {
     text-align: center;
     font-size: large;
 }
+
+#cabecera {
+    background-color: brown;
+    opacity: 0.5;
+}
